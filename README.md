@@ -1,6 +1,6 @@
 # Google Homepage
 
-My attempted to replicated the Google homepage.
+My attempt to replicate the Google homepage.
 
 Objective:
 	Deconstruct an existing webpage and rebuild it.
